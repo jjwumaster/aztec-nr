@@ -64,3 +64,6 @@ noirup -v aztec
 
 For more installation options, please view [Noir's getting started.](https://noir-lang.org/getting_started/nargo_installation)
 
+### Documentation
+
+Read more about Aztec.nr on Aztec Labs' official [developer documentation](https://docs.aztec.network/dev_docs/contracts/main).
